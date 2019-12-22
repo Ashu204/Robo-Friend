@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Robo-Friend/static/css/main.c6237a00.chunk.css",
-    "main.js": "/Robo-Friend/static/js/main.b519a55a.chunk.js",
-    "main.js.map": "/Robo-Friend/static/js/main.b519a55a.chunk.js.map",
+    "main.css": "/Robo-Friend/static/css/main.325262f8.chunk.css",
+    "main.js": "/Robo-Friend/static/js/main.7f8bd770.chunk.js",
+    "main.js.map": "/Robo-Friend/static/js/main.7f8bd770.chunk.js.map",
     "runtime-main.js": "/Robo-Friend/static/js/runtime-main.a03917ea.js",
     "runtime-main.js.map": "/Robo-Friend/static/js/runtime-main.a03917ea.js.map",
     "static/js/2.b02be2e4.chunk.js": "/Robo-Friend/static/js/2.b02be2e4.chunk.js",
     "static/js/2.b02be2e4.chunk.js.map": "/Robo-Friend/static/js/2.b02be2e4.chunk.js.map",
     "index.html": "/Robo-Friend/index.html",
-    "precache-manifest.579983c39b56d9689cec90c95c3a2e97.js": "/Robo-Friend/precache-manifest.579983c39b56d9689cec90c95c3a2e97.js",
+    "precache-manifest.7107036e2faa655d0fa6246d2ef9f3bd.js": "/Robo-Friend/precache-manifest.7107036e2faa655d0fa6246d2ef9f3bd.js",
     "service-worker.js": "/Robo-Friend/service-worker.js",
-    "static/css/main.c6237a00.chunk.css.map": "/Robo-Friend/static/css/main.c6237a00.chunk.css.map",
+    "static/css/main.325262f8.chunk.css.map": "/Robo-Friend/static/css/main.325262f8.chunk.css.map",
     "static/js/2.b02be2e4.chunk.js.LICENSE": "/Robo-Friend/static/js/2.b02be2e4.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.a03917ea.js",
     "static/js/2.b02be2e4.chunk.js",
-    "static/css/main.c6237a00.chunk.css",
-    "static/js/main.b519a55a.chunk.js"
+    "static/css/main.325262f8.chunk.css",
+    "static/js/main.7f8bd770.chunk.js"
   ]
 }
